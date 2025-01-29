@@ -1,5 +1,9 @@
 # AI-CUP Competition: STAS Detection
 
+## AI
+
+AICUP Competition Introduction - STAS Object Detection: [Website](https://tbrain.trendmicro.com.tw/Competitions/Details/22)
+
 ## Environment Setup
 Device: single 2080ti with CUDA 10.2 and python3.8
 ```bash
