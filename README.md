@@ -1,6 +1,6 @@
 # AI-CUP Competition: STAS Detection
 
-## AI
+## Introduction
 
 AICUP Competition Introduction - STAS Object Detection: [Website](https://tbrain.trendmicro.com.tw/Competitions/Details/22)
 
